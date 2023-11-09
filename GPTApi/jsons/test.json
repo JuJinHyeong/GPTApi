@@ -1,0 +1,9 @@
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Translate this sentence to english. '사랑합니다'"
+    }
+  ]
+}
